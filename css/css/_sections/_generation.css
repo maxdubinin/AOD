@@ -1,0 +1,10 @@
+.block {
+  text-align: center; }
+  .block__icon {
+    margin-bottom: 35px; }
+  .block__title {
+    color: #353738;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 3.6px; }
